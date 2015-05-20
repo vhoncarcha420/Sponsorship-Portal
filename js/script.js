@@ -6,7 +6,7 @@ $('#open').on('click',
     TweenMax.to("#product-wrapper", 0.5, {xPercent: 0, ease:Power4.easeInOut});
   });
 
-$('#close').on('click',
+$('#back').on('click',
   function() {
     TweenMax.to("#product-wrapper", 0.5, {xPercent: 100, ease:Power4.easeInOut});
   });
