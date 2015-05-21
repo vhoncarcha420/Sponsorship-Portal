@@ -16,6 +16,13 @@
 	  -moz-transform: translate(0, 0); 
 	  -o-transform: translate(0, 0); 
 	}
+	.product{
+	  top: 0;
+	  transform: translate(0, 0); 
+	  -webkit-transform: translate(0, 0); 
+	  -moz-transform: translate(0, 0); 
+	  -o-transform: translate(0, 0); 
+	}
 }
 
 @media screen and (max-width: 991px){
